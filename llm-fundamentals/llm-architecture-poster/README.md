@@ -45,7 +45,10 @@
 
 ## What I learned
 
-<!-- Write 3–5 bullets in your own words: what surprised you, what finally clicked. -->
+- **No longer a black box.** I used to treat LLMs as a black box. Seeing how much math and engineering goes into producing every single token makes me appreciate them far more than I did before.
+- **Connecting the dots.** It showed me how decades of machine learning research (embeddings, attention, normalisation, probability) finally came together to shape the modern LLM.
+- **One giant prediction engine.** Each piece is complex engineering on its own, but together they work as one giant probability engine, running at enormous scale to predict the next token.
+- **The engine behind agents.** That same next-token prediction is what fuels Agentic AI.
 
 ---
 
