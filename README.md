@@ -10,7 +10,7 @@ I'm a software engineer moving into AI engineering, and I'm doing it in public. 
 
 | # | Topic | Piece | Format |
 |---|-------|-------|--------|
-| 01 | LLM fundamentals | [Inside a Large Language Model: architecture poster](llm-fundamentals/llm-architecture-poster/) | Poster (PDF / PNG) |
+| 01 | LLM fundamentals | [Inside a Large Language Model: architecture poster](llm-fundamentals/llm-architecture-poster/) | Poster (PDF / PNG) + animation (MP4 / GIF) |
 
 *New pieces are added at the bottom. Each links to its own folder.*
 

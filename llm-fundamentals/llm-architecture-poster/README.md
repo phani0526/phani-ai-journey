@@ -6,6 +6,12 @@
 
 📄 **[Open the full-resolution PDF](poster.pdf)** (best for zooming in)
 
+### 🎬 Animated walkthrough (41 s)
+
+![Animated walkthrough of the LLM pipeline](llm-poster-walkthrough.gif)
+
+▶️ **[Watch the sharper MP4 version](llm-poster-walkthrough.mp4)**: tokenization → embeddings → Transformer stack → attention → logits → decoding + KV cache → RAG and agents.
+
 ---
 
 ## What the poster covers
